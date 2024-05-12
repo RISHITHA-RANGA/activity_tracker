@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.activity {
+  margin-bottom: 10px;
+}
+
+.activity .website {
+  font-weight: bold;
+}
+
+.activity .time {
+  font-style: italic;
+}
